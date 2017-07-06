@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1499093273
+#1499301221
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -10,8 +10,6 @@ images/personagem-sheet0.png
 images/personagem-sheet1.png
 images/personagem-sheet2.png
 images/inimigo1-sheet0.png
-images/inimigo1-sheet1.png
-images/inimigo1-sheet2.png
 images/balacartao-sheet0.png
 images/dinheiro-sheet0.png
 images/sensorbatida-sheet0.png
@@ -27,6 +25,30 @@ images/chao-sheet0.png
 images/tiledbackground4.png
 images/play-sheet0.png
 images/informacoes-sheet0.png
+images/info-sheet0.png
+images/voltargo-sheet0.png
+images/secao-sheet0.png
+images/sprite-sheet0.png
+images/iconsport1-sheet0.png
+images/iconsport2-sheet0.png
+images/iconsport3-sheet0.png
+images/iconsport4-sheet0.png
+images/iconsport5-sheet0.png
+images/iconsport6-sheet0.png
+images/iconsport7-sheet0.png
+images/iconsport8-sheet0.png
+images/iconsport9-sheet0.png
+images/iconsport10-sheet0.png
+images/iconsport11-sheet0.png
+images/iconsport12-sheet0.png
+images/fundogo2-sheet0.png
+images/restartlayout-sheet0.png
+images/ganhou-sheet0.png
+images/menubotao-sheet0.png
+media/katy%20perry%20-%20chained%20to%20the%20rhythm%20ft.%20skip%20marley%20(official%20instrumental)%20(online-audio-converter.com).m4a
+media/katy%20perry%20-%20chained%20to%20the%20rhythm%20ft.%20skip%20marley%20(official%20instrumental)%20(online-audio-converter.com).ogg
+media/snes%20station%20music%20menu.m4a
+media/snes%20station%20music%20menu.ogg
 icon-16.png
 icon-32.png
 icon-114.png
