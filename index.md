@@ -7,7 +7,6 @@ Criando minha **página**, principal.
 # Quem sou eu?
 
 Sou um estudande de Programação de Jogos Digitais do IFRN.
-3 Produções
 
 #Portfolio
 
