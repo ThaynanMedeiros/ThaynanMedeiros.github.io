@@ -18,7 +18,7 @@ Sou um estudande de Programação de Jogos Digitais do IFRN.
 
 ## Artes  
 
-[teste](http://pixelartmaker.com/art/9c2b6f9e3e386ac)
+![teste1](loser.png)  
 
 ## Apresentações
 * Aula de Multimidia
