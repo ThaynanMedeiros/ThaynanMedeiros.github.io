@@ -20,6 +20,10 @@ _Projetos desenvolvidos no decorrer do curso Programação de Jogos Digitais (IF
 - Geralmente, faço as artes no CorelDRAW;
 - Sou viciado e apaixonado por um degradê. ~~Degradê é a minha religião.~~
 
+## MAPA DE INFLUÊNCIA
+
+![mapinfluence](meumapinfluence.png)
+
 ## JOGOS
 
 [BFR: Black Friday Run](https://thaynanmedeiros.github.io/BFR/)  
