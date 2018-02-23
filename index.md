@@ -6,7 +6,7 @@ layout: default
 
 Então... Meu nome é **Thaynan Medeiros**, sou **papa-jerimum**, tenho **17 anos** e atualmente estou cursando o **3º período** de **Programação de Jogos Digitais** (**IFRN**).
 
-**~~Palavra-chave: aparvalhado~~**
+**~~Palavra-chave: mouthbreather~~**
 
 ![minhafoto](eusoupraieiro.JPG)
 
