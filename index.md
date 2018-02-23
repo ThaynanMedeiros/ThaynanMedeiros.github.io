@@ -8,7 +8,12 @@ Então... Meu nome é **Thaynan Medeiros**, sou **papa-jerimum**, tenho **17 ano
 
 **~~Palavra-chave: mouthbreather~~**
 
-> Email: thaynan41@hotmail.com  
+* **Contato**
+
+> Email: thaynan41@hotmail.com
+
+* **Redes Sociais**
+
 > [Instagram: thaynan_ms](https://www.instagram.com/thaynan_ms)  
 > [Pinterest: thaynan_ms](https://www.pinterest.com/thaynan_ms)  
 > [ArtStation: thaynan_ms](https://www.artstation.com/thaynan_ms)  
