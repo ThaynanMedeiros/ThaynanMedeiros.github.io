@@ -1,14 +1,15 @@
---
-layout: default
----
+# QUEM SOU EU?
 
-Criando minha **página**, principal.
+Então... Meu nome é **Thaynan Medeiros**, tenho **17** anos e sou estudande de **Programação de Jogos Digitais** (**IFRN**), atualmente cursando o **3º período**.
 
-# Quem sou eu?
+# PORTFOLIO
 
-Sou um estudande de Programação de Jogos Digitais do IFRN.
+Projetos desenvolvidos no decorrer do curso Programação de Jogos Digitais (IFRN)
 
-#Portfolio
+**NOTAS**:
+- Meus jogos são desenvolvidos através do Construct 2;
+- Na produção de jogos, prefiro ficar com as artes do que com a programação;
+- Geralmente, faço as artes no CorelDRAW.
 
 ## GAMES  
 
