@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # QUEM SOU EU?
 
 ![minhafoto](eusoupraieiro.JPG)
