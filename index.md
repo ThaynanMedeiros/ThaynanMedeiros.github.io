@@ -14,7 +14,7 @@ _Projetos desenvolvidos no decorrer do curso Programação de Jogos Digitais (IF
 - Meus jogos são desenvolvidos através do Construct 2;
 - Na produção de jogos, prefiro ficar com as artes do que com a programação;
 - Geralmente, faço as artes no CorelDRAW;
-- ~~Sou viciado e apaixonado por um degradê.~~
+- Sou viciado e apaixonado por um degradê. ~~Degradê é a minha religião.~~
 
 ## JOGOS
 
