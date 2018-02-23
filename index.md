@@ -4,11 +4,11 @@ layout: default
 
 # QUEM SOU EU?
 
-![minhafoto](eusoupraieiro.JPG)
-
 Então... Meu nome é **Thaynan Medeiros**, sou **papa-jerimum**, tenho **17 anos** e atualmente estou cursando o **3º período** de **Programação de Jogos Digitais** (**IFRN**).
 
 **~~Palavra-chave: aparvalhado~~**
+
+![minhafoto](eusoupraieiro.JPG)
 
 * * *
 
