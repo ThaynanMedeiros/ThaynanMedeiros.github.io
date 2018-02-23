@@ -13,7 +13,7 @@ Projetos desenvolvidos no decorrer do curso Programação de Jogos Digitais (IFR
 - Na produção de jogos, prefiro ficar com as artes do que com a programação;
 - Geralmente, faço as artes no CorelDRAW.
 
-## GAMES  
+## JOGOS
 
 [BFR: Black Friday Run](https://thaynanmedeiros.github.io/BFR/)  
 [Quem Tem Boca Vai a Roma](https://thaynanmedeiros.github.io/QTBVAR2/)
