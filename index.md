@@ -6,7 +6,7 @@ layout: default
 
 ![minhafoto](eusoupraieiro.JPG)
 
-Então... Meu nome é **Thaynan Medeiros**, **papa-jerimum**, tenho **17 anos** e sou estudande de **Programação de Jogos Digitais** (**IFRN**), atualmente cursando o **3º período**.
+Então... Meu nome é **Thaynan Medeiros**, sou **papa-jerimum**, tenho **17 anos** e atualmente estou cursando o **3º período** de **Programação de Jogos Digitais** (**IFRN**).
 
 **~~Palavra-chave: aparvalhado~~**
 
