@@ -1,5 +1,6 @@
-
-
+---
+layout: default
+---
 
 # QUEM SOU EU?
 
