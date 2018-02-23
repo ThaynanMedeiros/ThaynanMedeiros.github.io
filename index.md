@@ -1,5 +1,7 @@
 # QUEM SOU EU?
 
+![minhafoto](eusoupraieiro.jpg)
+
 Então... Meu nome é **Thaynan Medeiros**, tenho **17 anos** e sou estudande de **Programação de Jogos Digitais** (**IFRN**), atualmente cursando o **3º período**.
 
 **~~Palavra-chave: aparvalhado~~**
@@ -11,7 +13,8 @@ _Projetos desenvolvidos no decorrer do curso Programação de Jogos Digitais (IF
 **NOTAS**:
 - Meus jogos são desenvolvidos através do Construct 2;
 - Na produção de jogos, prefiro ficar com as artes do que com a programação;
-- Geralmente, faço as artes no CorelDRAW.
+- Geralmente, faço as artes no CorelDRAW;
+~~- Sou viciado e apaixonado por um degradê.~~
 
 ## JOGOS
 
