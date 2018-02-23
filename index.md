@@ -6,7 +6,7 @@ Então... Meu nome é **Thaynan Medeiros**, tenho **17 anos** e sou estudande de
 
 # PORTFOLIO
 
-Projetos desenvolvidos no decorrer do curso Programação de Jogos Digitais (IFRN)
+_Projetos desenvolvidos no decorrer do curso Programação de Jogos Digitais (IFRN)_
 
 **NOTAS**:
 - Meus jogos são desenvolvidos através do Construct 2;
