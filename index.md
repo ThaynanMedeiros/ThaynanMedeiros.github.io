@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # QUEM SOU EU?
 
 ![minhafoto](eusoupraieiro.JPG)
@@ -21,7 +22,7 @@ _Projetos desenvolvidos no decorrer do curso Programação de Jogos Digitais (IF
 
 ## MAPA DE INFLUÊNCIA
 
-![mapinfluence](meumapinfluence.png)
+![mapinfluence](meumapadeinfluencia.png)
 
 ## JOGOS
 
