@@ -1,6 +1,6 @@
 # QUEM SOU EU?
 
-![minhafoto](eusoupraieiro.jpg)
+![minhafoto](eusoupraieiro.JPG)
 
 Então... Meu nome é **Thaynan Medeiros**, tenho **17 anos** e sou estudande de **Programação de Jogos Digitais** (**IFRN**), atualmente cursando o **3º período**.
 
