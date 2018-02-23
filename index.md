@@ -1,6 +1,8 @@
 # QUEM SOU EU?
 
-Então... Meu nome é **Thaynan Medeiros**, tenho **17** anos e sou estudande de **Programação de Jogos Digitais** (**IFRN**), atualmente cursando o **3º período**.
+Então... Meu nome é **Thaynan Medeiros**, tenho **17 anos** e sou estudande de **Programação de Jogos Digitais** (**IFRN**), atualmente cursando o **3º período**.
+
+**~~Palavra-chave: aparvalhado~~**
 
 # PORTFOLIO
 
