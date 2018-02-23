@@ -24,6 +24,8 @@ _Projetos desenvolvidos no decorrer do curso Programação de Jogos Digitais (IF
 
 ## MAPA DE INFLUÊNCIA
 
+_(título autodidático)_
+
 ![mapinfluence](meumapadeinfluencia.png)
 
 ## JOGOS
