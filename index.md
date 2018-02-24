@@ -22,7 +22,7 @@ Então... Meu nome é **Thaynan Medeiros**, sou **papa-jerimum**, tenho **17 ano
 
 * * *
 
-# PORTFOLIO
+## PORTFOLIO
 
 _Projetos desenvolvidos no decorrer do curso Programação de Jogos Digitais (IFRN)_
 
@@ -32,7 +32,7 @@ _Projetos desenvolvidos no decorrer do curso Programação de Jogos Digitais (IF
 - Geralmente, faço as artes no CorelDRAW;
 - Sou viciado e apaixonado por um degradê. ~~Degradê é a minha religião.~~
 
-## MAPA DE INFLUÊNCIA
+### MAPA DE INFLUÊNCIA
 
 _(título autodidático)_
 
@@ -50,7 +50,7 @@ _(título autodidático)_
 
 5. A Botija (em construção)
 
-#### ARTES
+### ARTES
 
 ![teste1](loser.png)  
 
