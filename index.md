@@ -71,7 +71,7 @@ _(título autodidático)_
 
 ### PROJETOS
 
-- JOGOS DIGITAIS COMO FONTE DE CONHECIMENTO DA CULTURA BUDISMA: EM FOCO O NIRVANA.
+- Jogos Digitais Como Fonte De Conhecimento Da Cultura Budista: Em Foco O Nirvana.
 
 ### APRESENTAÇÕES
 
