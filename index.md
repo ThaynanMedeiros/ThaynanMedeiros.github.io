@@ -82,3 +82,9 @@ _(título autodidático)_
 - Jogos Digitais Como Fonte De Conhecimento Da Cultura Budista: Em Foco O Nirvana (apresentação no formato Banner na I Expotec do IFRN - _Campus_ Ceará - Mirim).
 
 * * *
+
+Agora que você conheceu um pouco das minhas artes,
+
+**:) GIVE ME A JOB, PLEASE :)**
+
+![cmotpmaisa](cmotpmaisa.jpg)
