@@ -40,11 +40,14 @@ _(título autodidático)_
 
 ### JOGOS
 
-[BFR: Black Friday Run](https://thaynanmedeiros.github.io/BFR/)
+1. [BFR: Black Friday Run](https://thaynanmedeiros.github.io/BFR/)
+![bfrmenu](bfrmenu.png)
 
-[Quem Tem Boca Vai a Roma](https://thaynanmedeiros.github.io/QTBVAR2/)
+2. [Quem Tem Boca Vai a Roma](https://thaynanmedeiros.github.io/QTBVAR2/)
+![qtbvarmenu](qtbvarmenu.png)
 
-[Potengi: O Quiz](https://mrbtrzmoraes.github.io/Quiz1/)
+3. [Potengi: O Quiz](https://mrbtrzmoraes.github.io/Quiz1/)
+![potengimenu](potengimenu.png)
 
 ## Artes  
 
