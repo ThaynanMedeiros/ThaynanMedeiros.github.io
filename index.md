@@ -75,9 +75,9 @@ _(título autodidático)_
 
 ### APRESENTAÇÕES
 
-- The Cups Song (apresentação cultural na I Secitex que aconteceu no IFRN - Santa Cruz em 2015);  
-- The Cups Song (apresentação no aniversário de 2 anos do IFRN - Ceará-Mirim);  
-- The Cups Song (apresentação cultural na II Secitex que aconteceu no IFRN - Parnamirim em 2016);  
-- Jogos Digitais Como Fonte De Conhecimento Da Cultura Budista: Em Foco O Nirvana (apresentação no formato Banner na I Expotec IFRN - Ceará- Mirim).
+- The Cups Song (apresentação cultural na I Secitex que aconteceu no IFRN - _Campus_ Santa Cruz em 2015);  
+- The Cups Song (apresentação no aniversário de 2 anos do IFRN - _Campus_ Ceará-Mirim);  
+- The Cups Song (apresentação cultural na II Secitex que aconteceu no IFRN - _Campus_ Parnamirim em 2016);  
+- Jogos Digitais Como Fonte De Conhecimento Da Cultura Budista: Em Foco O Nirvana (apresentação no formato Banner na I Expotec do IFRN - _Campus_ Ceará - Mirim).
 
 * * *
