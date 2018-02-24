@@ -52,9 +52,12 @@ _(título autodidático)_
 
 ### ARTES
 
-- Potengi: O Quiz
-  - Fluxo Estúdio - Logo  ![fluxoestudiologo](fluxoestudiologo.png)
-  - level 2 item
+- Potengi: O Quiz  
+  - Fluxo Estúdio - Logo  ![fluxoestudiologo](fluxoestudiologo.png)  
+  - Ponte Newton Navarro  ![pontenewtonnavarro](pontenewtonnavarro.png)  
+  - Catamarã  ![catamara](catamara.png)  
+  - Fortaleza dos Reis Magos  ![fortalezadosreismagos](fortalezadosreismagos.png)  
+  - Faróis da Boca da Barra  ![faroisbocadabarra](faroisbocadabarra.png)  
 
 ## Apresentações
 * Aula de Multimidia
