@@ -38,7 +38,7 @@ _(título autodidático)_
 
 ![mapinfluence](meumapadeinfluencia.png)
 
-## JOGOS
+### JOGOS
 
 [BFR: Black Friday Run[](bfrmenu.png)](https://thaynanmedeiros.github.io/BFR/)
 
