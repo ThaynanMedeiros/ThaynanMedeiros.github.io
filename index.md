@@ -56,11 +56,15 @@ _(título autodidático)_
 
   - Fluxo Estúdio - Logo  ![fluxoestudiologo](fluxoestudiologo.png)  
   
+  
   - Ponte Newton Navarro  ![pontenewtonnavarro](pontenewtonnavarro.png)  
+  
   
   - Catamarã  ![catamara](catamara.png)  
   
+  
   - Fortaleza dos Reis Magos  ![fortalezadosreismagos](fortalezadosreismagos.png)  
+  
   
   - Faróis da Boca da Barra  ![faroisbocadabarra](faroisbocadabarra.png)  
 
