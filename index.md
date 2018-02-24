@@ -52,7 +52,9 @@ _(título autodidático)_
 
 ### ARTES
 
-![teste1](loser.png)  
+- Potengi: O Quiz
+  - Fluxo Estúdio - Logo  ![fluxoestudiologo](fluxoestudiologo.png)
+  - level 2 item
 
 ## Apresentações
 * Aula de Multimidia
