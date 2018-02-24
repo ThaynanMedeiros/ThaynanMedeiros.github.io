@@ -69,16 +69,11 @@ _(título autodidático)_
   - Faróis da Boca da Barra  ![faroisbocadabarra](faroisbocadabarra.png)  
   
 
-## Apresentações
-* Aula de Multimidia
-* Aula de Motores
-* Aula de Empreendedorismo  
+### PROJETOS
 
-1. Durval  
-2. Marcelo  
-3. Idel
+- JOGOS DIGITAIS COMO FONTE DE CONHECIMENTO DA CULTURA BUDISMA: EM FOCO O NIRVANA.
 
-## Projetos
+### APRESENTAÇÕES
 
 * * *
 
