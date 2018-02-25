@@ -14,9 +14,9 @@ Então... Meu nome é **Thaynan Medeiros**, sou **papa-jerimum**, tenho **17 ano
 
 * **REDES SOCIAIS**
 
-> [Instagram: thaynan_ms](https://www.instagram.com/thaynan_ms)  
-> [Pinterest: thaynan_ms](https://www.pinterest.com/thaynan_ms)  
-> [ArtStation: thaynan_ms](https://www.artstation.com/thaynan_ms)  
+> [Instagram: thay.mdrs](https://www.instagram.com/thay.mdrs)  
+> [Pinterest: thay_mdrs](https://www.pinterest.com/thay_mdrs)  
+> [ArtStation: thay_mdrs](https://www.artstation.com/thay_mdrs)  
 
 ![minhafoto](eusoupraieiro.JPG)
 
@@ -57,10 +57,10 @@ _(título autodidático)_
   - Fluxo Estúdio - Logo  ![fluxoestudiologo](fluxoestudiologo.png)  
   
   
-  - Ponte Newton Navarro  ![pontenewtonnavarro](pontenewtonnavarro.png)  
-  
-  
   - Catamarã  ![catamara](catamara.png)  
+  
+  
+  - Ponte Newton Navarro  ![pontenewtonnavarro](pontenewtonnavarro.png)  
   
   
   - Fortaleza dos Reis Magos  ![fortalezadosreismagos](fortalezadosreismagos.png)  
@@ -83,7 +83,7 @@ _(título autodidático)_
 
 * * *
 
-Agora que você conheceu um pouco das minhas artes,
+Agora que você conheceu um pouco do que eu faço,
 
 **:) GIVE ME A JOB, PLEASE :)**
 
