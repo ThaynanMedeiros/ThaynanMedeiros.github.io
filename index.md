@@ -49,7 +49,7 @@ _(título autodidático)_
 4. ANTIBODY (em construção)
 
 5. A Botija (em construção)  
-[MOCKUP](https://youtu.be/Q2WM7h9t8Gk);
+[MOCKUP](https://youtu.be/Q2WM7h9t8Gk)
 
 ### ARTES
 
