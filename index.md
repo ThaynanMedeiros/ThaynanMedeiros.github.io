@@ -4,7 +4,7 @@ layout: default
 
 # QUEM SOU EU?
 
-Então... Meu nome é **Thaynan Medeiros**, sou **papa-jerimum**, tenho **17 anos** e atualmente estou cursando o **3º período** de **Programação de Jogos Digitais** (**IFRN**).
+Então... Meu nome é **Thaynan Medeiros**, sou **papa-jerimum**, tenho **17 anos** e atualmente estou cursando o **4º e último período** de **Programação de Jogos Digitais** (**IFRN**).
 
 **~~Palavra-chave: mouthbreather~~**
 
@@ -46,7 +46,7 @@ _(título autodidático)_
 
 3. [Potengi: O Quiz![](potengimenu.png)](https://mrbtrzmoraes.github.io/Quiz1/)
 
-4. ANTIBODY (em construção)
+4. ANTIBODY DEFENSE (em construção)
 
 5. [A Botija (em construção)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)  
 
