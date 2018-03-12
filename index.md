@@ -44,7 +44,7 @@ _(título autodidático)_
 
 2. [Quem Tem Boca Vai a Roma![](qtbvarmenu.png)](https://thaynanmedeiros.github.io/QTBVAR2/)
 
-3. [Potengi: O Quiz![](potengimenu.png)](https://mrbtrzmoraes.github.io/Quiz1/)
+3. [Potengi: O Quiz (em construção)![](potengimenu.png)](https://mrbtrzmoraes.github.io/Quiz1/)
 
 4. ANTIBODY DEFENSE (em construção)
 
