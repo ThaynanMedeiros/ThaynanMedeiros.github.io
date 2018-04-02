@@ -4,7 +4,7 @@ layout: default
 
 # QUEM SOU EU?
 
-Então... Meu nome é **Thaynan Medeiros**, sou **papa-jerimum**, tenho **17 anos** e atualmente estou cursando o **4º (e último) período** de **Programação de Jogos Digitais** (**IFRN**).
+Então... Meu nome é **Thaynan Medeiros**, sou **papa-jerimum**, tenho **18 anos** e atualmente estou cursando o **4º (e último) período** de **Programação de Jogos Digitais** (**IFRN**).
 
 **~~Palavra-chave: mouthbreather~~**
 
