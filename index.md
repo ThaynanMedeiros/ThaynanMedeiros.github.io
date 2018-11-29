@@ -23,7 +23,7 @@ Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **18 anos** 
 
 ## PORTFOLIO
 
-_Projetos desenvolvidos no decorrer do curso Programação de Jogos Digitais (IFRN)_
+_Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais (IFRN)_
 
 **NOTAS**:
 - Meus jogos são desenvolvidos através da _game engine_ Construct 2;
