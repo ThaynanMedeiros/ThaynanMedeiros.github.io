@@ -15,7 +15,6 @@ Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **18 anos** 
 * **REDES SOCIAIS**
 
 > [Instagram: thay.mdrs](https://www.instagram.com/thay.mdrs)  
-> [Pinterest: thay_mdrs](https://www.pinterest.com/thay_mdrs)  
 > [ArtStation: thay_mdrs](https://www.artstation.com/thay_mdrs)  
 
 ![minhafoto](eusoupraieiro.JPG)
@@ -50,7 +49,7 @@ _(título autodidático)_
 
 5. [A Botija (em construção)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)
 
-6. Rio Grande - A História (projeto de conclusão de curso) [em construção]
+**6. Rio Grande - A História (projeto de conclusão de curso) [em construção]**
 
 ### ARTES
 
