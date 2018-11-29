@@ -4,9 +4,9 @@ layout: default
 
 # QUEM SOU EU?
 
-Então... Meu nome é **Thaynan Medeiros**, sou **papa-jerimum**, tenho **18 anos** e atualmente estou cursando o **4º (e último) período** de **Programação de Jogos Digitais** (**IFRN**).
+Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **18 anos** e atualmente estou cursando o **4º (e último) período** de **Programação de Jogos Digitais** (**IFRN**).
 
-**~~Palavra-chave: mouthbreather~~**
+**~~Palavra-chave: aparvalhado~~**
 
 * **CONTATO**
 
@@ -27,7 +27,7 @@ Então... Meu nome é **Thaynan Medeiros**, sou **papa-jerimum**, tenho **18 ano
 _Projetos desenvolvidos no decorrer do curso Programação de Jogos Digitais (IFRN)_
 
 **NOTAS**:
-- Meus jogos são desenvolvidos através do Construct 2;
+- Meus jogos são desenvolvidos através da _game engine_ Construct 2;
 - Na produção de jogos, prefiro ficar com as artes do que com a programação;
 - Geralmente, faço as artes no CorelDRAW;
 - Sou viciado e apaixonado por um degradê. ~~Degradê é a minha religião.~~
@@ -42,13 +42,15 @@ _(título autodidático)_
 
 1. [BFR: Black Friday Run![](bfrmenu.png)](https://thaynanmedeiros.github.io/BFR/)
 
-2. [Quem Tem Boca Vai a Roma![](qtbvarmenu.png)](https://thaynanmedeiros.github.io/QTBVAR2/)
+2. [Quem Tem Boca Vai a Roma (em construção)![](qtbvarmenu.png)](https://thaynanmedeiros.github.io/QTBVAR2/)
 
 3. [Potengi: O Quiz (em construção)![](potengimenu.png)](https://mrbtrzmoraes.github.io/Quiz1/)
 
 4. ANTIBODY DEFENSE (em construção)
 
-5. [A Botija (em construção)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)  
+5. [A Botija (em construção)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)
+
+6. Rio Grande - A História (projeto de conclusão de curso) [em construção]
 
 ### ARTES
 
