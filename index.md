@@ -69,7 +69,7 @@ _(título autodidático)_
 ### PROJETOS
 
 - Jogos Digitais Como Fonte De Conhecimento Da Cultura Budista: Em Foco O Nirvana;
-- Rio Grande: A História - Uma Ferramenta de Ensino Aprendizagem Sobre a História do Rio Grande do Norte.
+- Rio Grande: A História - Uma Ferramenta de Ensino Aprendizagem Sobre a História do Rio Grande do Norte (projeto de conclusão de curso).
 
 ### APRESENTAÇÕES EM EVENTOS
 
