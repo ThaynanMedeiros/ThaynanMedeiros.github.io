@@ -45,7 +45,7 @@ _(título autodidático)_
 
 5. [A Botija (em construção)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)
 
-**6. [Rio Grande - A História (projeto de conclusão de curso) [em construção]![]**(RioGrandeCapa.png)](https://mrbtrzmoraes.github.io/RioGrande/)
+**6. [Rio Grande - A História (projeto de conclusão de curso) [em construção]![](RioGrandeCapa.png)](https://mrbtrzmoraes.github.io/RioGrande/)**
 
 ### ARTES
 
