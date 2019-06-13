@@ -4,7 +4,7 @@ layout: default
 
 # QUEM SOU EU?
 
-Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **19 anos**, sou **Técnico em Programação de Jogos Digitais** pelo **IFRN** e futuro professor de português.
+Então... Meu nome é **Thaynan Medeiros**, sou **potiguar** e sou **Técnico em Programação de Jogos Digitais** pelo **IFRN**.
 
 * **CONTATO**
 
@@ -25,7 +25,7 @@ _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais 
 - Meus jogos são desenvolvidos através da _game engine_ Construct 2;
 - Na produção de jogos, prefiro ficar com as artes do que com a programação;
 - Geralmente, faço as artes no CorelDRAW;
-- Sou viciado e apaixonado por um degradê. ~~Degradê é a minha religião.~~
+- Sou viciadíssimo em um degradê.
 
 ### MAPA DE INFLUÊNCIA
 
