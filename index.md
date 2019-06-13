@@ -4,9 +4,7 @@ layout: default
 
 # QUEM SOU EU?
 
-Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **18 anos** e atualmente estou cursando o **4º (e último) período** de **Programação de Jogos Digitais** (**IFRN**).
-
-**~~Palavra-chave: aparvalhado~~**
+Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **19 anos**, sou **Técnico em Programação de Jogos Digitais** pelo **IFRN** e um futuro professor de português.
 
 * **CONTATO**
 
@@ -17,11 +15,9 @@ Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **18 anos** 
 > [Instagram: thay.mdrs](https://www.instagram.com/thay.mdrs)  
 > [ArtStation: thay_mdrs](https://www.artstation.com/thay_mdrs)  
 
-![minhafoto](eusoupraieiro.JPG)
-
 * * *
 
-## PORTFOLIO
+## PORTFÓLIO
 
 _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais (IFRN)_
 
