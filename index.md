@@ -4,7 +4,7 @@ layout: default
 
 # QUEM SOU EU?
 
-Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **19 anos**, sou **Técnico em Programação de Jogos Digitais** pelo **IFRN** e um futuro professor de português.
+Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **19 anos**, sou **Técnico em Programação de Jogos Digitais** pelo **IFRN** e futuro professor de português.
 
 * **CONTATO**
 
@@ -45,7 +45,7 @@ _(título autodidático)_
 
 5. [A Botija (em construção)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)
 
-**6. Rio Grande - A História (projeto de conclusão de curso) [em construção]**
+**6. [Rio Grande - A História (projeto de conclusão de curso) [em construção]![]**(RioGrandeCapa.png)](https://mrbtrzmoraes.github.io/RioGrande/)
 
 ### ARTES
 
