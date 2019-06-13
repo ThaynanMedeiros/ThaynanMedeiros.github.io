@@ -43,9 +43,9 @@ _(título autodidático)_
 
 4. ANTIBODY DEFENSE (em construção)
 
-5. [A Botija (em construção)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)
+5. [A Botija![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)
 
-**6. [Rio Grande - A História (projeto de conclusão de curso)![](RioGrandeCapa.png)](https://mrbtrzmoraes.github.io/RioGrande/)**
+6. **[Rio Grande - A História (projeto de conclusão de curso)![](RioGrandeCapa.png)](https://mrbtrzmoraes.github.io/RioGrande/)**
 
 ### ARTES
 
@@ -71,7 +71,7 @@ _(título autodidático)_
 - Jogos Digitais Como Fonte De Conhecimento Da Cultura Budista: Em Foco O Nirvana;
 - Rio Grande: A História - Uma Ferramenta de Ensino Aprendizagem Sobre a História do Rio Grande do Norte.
 
-### APRESENTAÇÕES
+### APRESENTAÇÕES EM EVENTOS
 
 - The Cups Song (apresentação cultural na I Secitex que aconteceu no IFRN - _Campus_ Santa Cruz em 2015);  
 - The Cups Song (apresentação no aniversário de 2 anos do IFRN - _Campus_ Ceará-Mirim),  
