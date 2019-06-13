@@ -45,7 +45,7 @@ _(título autodidático)_
 
 5. [A Botija (em construção)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)
 
-**6. [Rio Grande - A História (projeto de conclusão de curso) [em construção]![](RioGrandeCapa.png)](https://mrbtrzmoraes.github.io/RioGrande/)**
+**6. [Rio Grande - A História (projeto de conclusão de curso)![](RioGrandeCapa.png)](https://mrbtrzmoraes.github.io/RioGrande/)**
 
 ### ARTES
 
@@ -68,7 +68,8 @@ _(título autodidático)_
 
 ### PROJETOS
 
-- Jogos Digitais Como Fonte De Conhecimento Da Cultura Budista: Em Foco O Nirvana.
+- Jogos Digitais Como Fonte De Conhecimento Da Cultura Budista: Em Foco O Nirvana;
+- Rio Grande: A História - Uma Ferramenta de Ensino Aprendizagem Sobre a História do Rio Grande do Norte.
 
 ### APRESENTAÇÕES
 
