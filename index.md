@@ -8,7 +8,11 @@ Então... Meu nome é **Thaynan Medeiros**, sou **potiguar** e sou **Técnico em
 
 * **CONTATO**
 
-> Email: thaynan41@hotmail.com
+> E-mail: thaynanmsilva@gmail.com
+
+* **LATTES**
+
+> http://lattes.cnpq.br/1310177915937354
 
 * **REDES SOCIAIS**
 
