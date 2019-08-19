@@ -33,8 +33,6 @@ _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais 
 
 ### MAPA DE INFLUÊNCIA
 
-_(título autodidático)_
-
 ![mapinfluence](meumapadeinfluencia.png)
 
 ### JOGOS
