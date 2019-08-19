@@ -39,11 +39,11 @@ _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais 
 
 1. [BFR: Black Friday Run![](bfrmenu.png)](https://thaynanmedeiros.github.io/BFR/)
 
-2. [Quem Tem Boca Vai a Roma (em construção)![](qtbvarmenu.png)](https://thaynanmedeiros.github.io/QTBVAR2/)
+2. [Quem Tem Boca Vai a Roma![](qtbvarmenu.png)](https://thaynanmedeiros.github.io/QTBVAR2/)
 
-3. [Potengi: O Quiz (em construção)![](potengimenu.png)](https://mrbtrzmoraes.github.io/Quiz1/)
+3. [Potengi: O Quiz![](potengimenu.png)](https://mrbtrzmoraes.github.io/Quiz1/)
 
-4. ANTIBODY DEFENSE (em construção)
+4. ANTIBODY DEFENSE
 
 5. [A Botija (MOCKUP)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)
 
