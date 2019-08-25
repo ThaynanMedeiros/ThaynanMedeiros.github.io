@@ -97,6 +97,6 @@ Agora que você conheceu e sabe o que eu faço,
 **(: GIVE ME A JOB, PLEASE :)**
 
 ![cmotpmaisa](cmotpmaisa.jpg)  
-Meme da Maísa — Foto: Reprodução/Twitter
+Meme da Maísa Silva "Chama no probleminha" — Foto: Reprodução/Twitter
 
 * * *
