@@ -48,7 +48,7 @@ _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais 
 
 4. ANTIBODY DEFENSE
 
-5. [A Botija (MOCKUP)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)
+5. [A Botija (MOCKUP)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)  
   O mockup do jogo A Botija foi desenvolvido com as informações e restrições que o professor Marcelo de Barros apresentou, um jogo com pixel art, em grid e com a temática mistério. O vídeo apresentado fez parte da composição da nota do quarto bimestre na disciplina de Oficina de Jogos.
 
 6. **[Rio Grande - A História (projeto de conclusão de curso)![](RioGrandeCapa.png)](https://mrbtrzmoraes.github.io/RioGrande/)**
