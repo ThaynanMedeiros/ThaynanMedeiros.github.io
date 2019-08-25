@@ -42,7 +42,8 @@ _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais 
 
 1. [BFR: Black Friday Run![](bfrmenu.png)](https://thaynanmedeiros.github.io/BFR/)  
 
-    - A partir da proposta do professor Marcelo de Barros, de elaborar um jogo digital sobre o tema cultura, foi desenvolvido pelos alunos Thaynan Medeiros da Silva e Maria Eduarda de Lima Freire o "Black Friday Run", baseado na cultura de consumo, já que a Black Friday representa um dos maiores eventos de incentivo ao consumo de massa na atualidade.<br />
+    - A partir da proposta do professor Marcelo de Barros, de elaborar um jogo digital sobre o tema cultura, foi desenvolvido pelos alunos Thaynan Medeiros da Silva e Maria Eduarda de Lima Freire o "Black Friday Run", baseado na cultura de consumo, já que a Black Friday representa um dos maiores eventos de incentivo ao consumo de massa na atualidade.
+    <br />
 
 2. [Quem Tem Boca Vai a Roma![](qtbvarmenu.png)](https://thaynanmedeiros.github.io/QTBVAR2/)
 
