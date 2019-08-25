@@ -4,19 +4,23 @@ layout: default
 
 # QUEM SOU EU?
 
-Então... Meu nome é **Thaynan Medeiros**, sou **potiguar** e sou **Técnico em Programação de Jogos Digitais** pelo **IFRN**.
+Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **19 anos**, sou **Técnico em Programação de Jogos Digitais** pelo **IFRN**, com **habilidades** na **elaboração de artes vetoriais** e em **design gráfico**, e atualmente estou **cursando Letras - Língua Portuguesa** na **UFRN**.
 
 * **CONTATO**
 
 > E-mail: thaynanmsilva@gmail.com
 
-* **LATTES**
+* **CURRÍCULO LATTES**
 
-> [http://lattes.cnpq.br/1310177915937354](http://lattes.cnpq.br/1310177915937354)
+> [Thaynan Medeiros da Silva](http://lattes.cnpq.br/1310177915937354)
 
 * **REDES SOCIAIS**
 
 > [Instagram: thay.mdrs](https://www.instagram.com/thay.mdrs)  
+> [Pinterest: thay_mdrs](https://br.pinterest.com/thay_mdrs/)  
+> [YouTube: Thaynan Medeiros](https://www.youtube.com/channel/UCcRV_fDMn7_51ULNUNj8Ebw)  
+> [GitHub: ThaynanMedeiros](https://github.com/ThaynanMedeiros)  
+> [Behance: thaynanmedeiros](https://www.behance.net/thaynanmedeiros)  
 > [ArtStation: thay_mdrs](https://www.artstation.com/thay_mdrs)  
 
 * * *
@@ -83,9 +87,9 @@ _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais 
 
 * * *
 
-Agora que você conheceu um pouco do que eu faço,
+Agora que você conhece e sabe o que eu faço,
 
-**:) GIVE ME A JOB, PLEASE :)**
+**(: GIVE ME A JOB, PLEASE :)**
 
 ![cmotpmaisa](cmotpmaisa.jpg)
 
