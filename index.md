@@ -87,7 +87,7 @@ _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais 
 
 * * *
 
-Agora que você conhece e sabe o que eu faço,
+Agora que você conheceu e sabe o que eu faço,
 
 **(: GIVE ME A JOB, PLEASE :)**
 
