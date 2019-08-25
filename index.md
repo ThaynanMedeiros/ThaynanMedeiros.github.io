@@ -40,9 +40,9 @@ _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais 
 
 ### JOGOS
 
-1. [BFR: Black Friday Run![](bfrmenu.png)](https://thaynanmedeiros.github.io/BFR/)  A partir da proposta do professor Marcelo de Barros, de elaborar um jogo digital sobre o tema cultura, foi desenvolvido pelos alunos Thaynan Medeiros da Silva e Maria Eduarda de Lima Freire o "Black Friday Run", baseado na cultura de consumo, já que a Black Friday representa um dos maiores eventos de incentivo ao consumo de massa na atualidade.  
+1. [BFR: Black Friday Run![](bfrmenu.png)](https://thaynanmedeiros.github.io/BFR/)  A partir da proposta do professor Marcelo de Barros, de elaborar um jogo digital de plataforma sobre o tema cultura, foi desenvolvido pelos alunos Thaynan Medeiros da Silva e Maria Eduarda de Lima Freire o "Black Friday Run", baseado na cultura de consumo, já que a Black Friday representa um dos maiores eventos de incentivo ao consumo de massa na atualidade. O projeto apresentado fez parte da composição da nota do primeiro bimestre na disciplina de Oficina de Jogos.  
 
-2. [Quem Tem Boca Vai a Roma![](qtbvarmenu.png)](https://thaynanmedeiros.github.io/QTBVAR2/)
+2. [Quem Tem Boca Vai a Roma![](qtbvarmenu.png)](https://thaynanmedeiros.github.io/QTBVAR2/)  A partir da proposta do professor Marcelo de Barros, de elaborar um jogo digital de clique e toque sobre o tema mensagem, foi desenvolvido pelos alunos Thaynan Medeiros da Silva e Elicia Porpino da Silva o "Quem Tem Boca Vai a Roma", baseado na forma errônea da expressão popular de nomenclatura parecida e também na ideia de que as pessoas precisam da comunicação para conseguir atingir os seus objetivos, como por exemplo, em um deslocamento a determinado local através de placas de sinalização e até mesmo por meio de informações de outras pessoas. O projeto apresentado fez parte da composição da nota do segundo bimestre na disciplina de Oficina de Jogos.  
 
 3. [Potengi: O Quiz![](potengimenu.png)](https://mrbtrzmoraes.github.io/Quiz1/)
 
