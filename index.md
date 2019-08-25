@@ -90,7 +90,7 @@ Agora que você conheceu e sabe o que eu faço,
 
 **(: GIVE ME A JOB, PLEASE :)**
 
-![cmotpmaisa](cmotpmaisa.jpg)
-Meme Maísa — Foto: Reprodução/Twitter
+![cmotpmaisa](cmotpmaisa.jpg)  
+Meme Maísa — Foto: Reprodução/Twitter  
 
 * * *
