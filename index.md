@@ -46,7 +46,7 @@ _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais 
 
 3. [Potengi: O Quiz![](potengimenu.png)](https://mrbtrzmoraes.github.io/Quiz1/) A partir da proposta do professor Marcelo de Barros, de elaborar um jogo digital de tema livre, foi desenvolvido pelos alunos Maria Beatriz Nogueira de Moraes, Thaynan Medeiros da Silva e Maria Eduarda de Lima Freire o "Potengi: O Quiz", que aborda questões sobre aspectos diversos voltados ao rio Potengi e outros elementos que estão a sua volta. O projeto apresentado fez parte da composição da nota do terceiro bimestre na disciplina de Oficina de Jogos.  
 
-4. ANTIBODY DEFENSE
+4. ANTIBODY DEFENSE (Projeto Integrador)
 
 5. [A Botija (MOCKUP)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)    O mockup do jogo "A Botija" foi desenvolvido com as informações e restrições que o professor Marcelo de Barros apresentou, um jogo com pixel art, em grid e com a temática mistério; elaborado com base em contos populares regionais, segundo Luís da Câmara Cascudo. O vídeo apresentado fez parte da composição da nota do quarto bimestre na disciplina de Oficina de Jogos e foi desenvolvido pelos alunos Thaynan Medeiros da Silva e Maria Beatriz Nogueira de Moraes.  
 
