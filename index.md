@@ -42,7 +42,7 @@ _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais 
 
 1. [BFR: Black Friday Run![](bfrmenu.png)](https://thaynanmedeiros.github.io/BFR/)  
 
-  - A partir da proposta do professor Marcelo de Barros, de elaborar um jogo digital sobre o tema cultura, foi desenvolvido pelos alunos Thaynan Medeiros da Silva e Maria Eduarda de Lima Freire o "Black Friday Run", baseado na cultura de consumo, já que a Black Friday representa um dos maiores eventos de incentivo ao consumo de massa na atualidade.
+    - A partir da proposta do professor Marcelo de Barros, de elaborar um jogo digital sobre o tema cultura, foi desenvolvido pelos alunos Thaynan Medeiros da Silva e Maria Eduarda de Lima Freire o "Black Friday Run", baseado na cultura de consumo, já que a Black Friday representa um dos maiores eventos de incentivo ao consumo de massa na atualidade.
 
 2. [Quem Tem Boca Vai a Roma![](qtbvarmenu.png)](https://thaynanmedeiros.github.io/QTBVAR2/)
 
@@ -52,11 +52,11 @@ _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais 
 
 5. [A Botija (MOCKUP)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)  
 
-  - O mockup do jogo "A Botija" foi desenvolvido com as informações e restrições que o professor Marcelo de Barros apresentou, um jogo com pixel art, em grid e com a temática mistério. O vídeo apresentado fez parte da composição da nota do quarto bimestre na disciplina de Oficina de Jogos e foi desenvolvido pelos alunos Thaynan Medeiros da Silva e Maria Beatriz Nogueira de Moraes.
+    - O mockup do jogo "A Botija" foi desenvolvido com as informações e restrições que o professor Marcelo de Barros apresentou, um jogo com pixel art, em grid e com a temática mistério. O vídeo apresentado fez parte da composição da nota do quarto bimestre na disciplina de Oficina de Jogos e foi desenvolvido pelos alunos Thaynan Medeiros da Silva e Maria Beatriz Nogueira de Moraes.
 
 6. **[Rio Grande - A História (projeto de conclusão de curso)![](RioGrandeCapa.png)](https://mrbtrzmoraes.github.io/RioGrande/)**  
 
-  - O jogo "Rio Grande - A História" foi desenvolvido como projeto final do curso de Programação de Jogos Digitais, ofertado pelo IFRN - _Campus_ Ceará-Mirim, para auxiliar como ferramenta no processo de ensino-aprendizagem da História do período colonial da capitania do Rio Grande. O projeto foi desenvolvido por Amnésia Estúdio, o qual é composto pelos alunos Maria Beatriz Nogueira de Moraes, responsável pela programação; Thaynan Medeiros da Silva, responsável pelas artes, e Maria Eduarda de Lima Freire, responsável pelo game design e áudios.
+    - O jogo "Rio Grande - A História" foi desenvolvido como projeto final do curso de Programação de Jogos Digitais, ofertado pelo IFRN - _Campus_ Ceará-Mirim, para auxiliar como ferramenta no processo de ensino-aprendizagem da História do período colonial da capitania do Rio Grande. O projeto foi desenvolvido por Amnésia Estúdio, o qual é composto pelos alunos Maria Beatriz Nogueira de Moraes, responsável pela programação; Thaynan Medeiros da Silva, responsável pelas artes, e Maria Eduarda de Lima Freire, responsável pelo game design e áudios.
 
 ### ARTES
 
