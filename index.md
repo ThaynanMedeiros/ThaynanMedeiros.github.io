@@ -6,6 +6,10 @@ layout: default
 
 Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **20 anos**, sou **Técnico em Programação de Jogos Digitais** pelo **IFRN**, com **habilidades** na **elaboração de artes vetoriais** e em **design gráfico**, e atualmente estou **cursando Letras - Língua Portuguesa** na **UFRN**.
 
+* **CONTATO**
+
+> E-mail: thaynanmsilva@gmail.com
+
 * **CURRÍCULO LATTES**
 
 > [Thaynan Medeiros da Silva](http://lattes.cnpq.br/1310177915937354)
