@@ -50,7 +50,7 @@ _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais 
 
 4. ANTIBODY DEFENSE (Projeto Integrador)  
 
-  Neste projeto, foram integradas as disciplinas de Motores de Jogos e Biologia através do desenvolvimento de um jogo digital no estilo tower defense baseado na temática “vírus e bactérias”. Também foi apliacada uma pequena abordagem do assunto imunologia, que é um ramo da biologia, ao jogo. O projeto fez parte da composição de nota na disciplina de Seminário de Orientação de Projeto Integrador e foi desenvolvido pelos alunos Maria Beatriz Nogueira de Moraes, Maria Eduarda de Lima Freire, Matheus Ricardo de Araújo Teixeira e Thaynan Medeiros da Silva.
+Neste projeto, foram integradas as disciplinas de Motores de Jogos e Biologia através do desenvolvimento de um jogo digital no estilo tower defense baseado na temática “vírus e bactérias”. Também foi apliacada uma pequena abordagem do assunto imunologia, que é um ramo da biologia, ao jogo. O projeto fez parte da composição de nota na disciplina de Seminário de Orientação de Projeto Integrador e foi desenvolvido pelos alunos Maria Beatriz Nogueira de Moraes, Maria Eduarda de Lima Freire, Matheus Ricardo de Araújo Teixeira e Thaynan Medeiros da Silva.
 
 5. [A Botija (MOCKUP)![](abotija.PNG)](https://youtu.be/Q2WM7h9t8Gk)  O mockup do jogo "A Botija" foi desenvolvido com as informações e restrições que o professor Marcelo de Barros apresentou, um jogo com pixel art, em grid e com a temática mistério; elaborado com base em contos populares regionais, segundo Luís da Câmara Cascudo. O vídeo apresentado fez parte da composição da nota do quarto bimestre na disciplina de Oficina de Jogos e foi desenvolvido pelos alunos Thaynan Medeiros da Silva e Maria Beatriz Nogueira de Moraes.  
 
