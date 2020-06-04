@@ -86,12 +86,3 @@ Neste projeto, foram integradas as disciplinas de Motores de Jogos e Biologia at
 - Jogos Digitais Como Fonte De Conhecimento Da Cultura Budista: Em Foco O Nirvana (apresentação no formato Banner na I Expotec do IFRN - _Campus_ Ceará-Mirim).
 
 * * *
-
-Agora que você me conheceu e sabe o que eu faço,
-
-**(: GIVE ME A JOB, PLEASE :)**
-
-![cmotpmaisa](cmotpmaisa.jpg)  
-Meme da Maísa Silva "Chama no probleminha" — Foto: Reprodução/Twitter
-
-* * *
