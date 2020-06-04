@@ -4,11 +4,7 @@ layout: default
 
 # QUEM SOU EU?
 
-Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **20 anos**, sou **Técnico em Programação de Jogos Digitais** pelo **IFRN**, com **habilidades** na **elaboração de artes vetoriais** e em **design gráfico**, e atualmente estou **cursando Letras - Língua Portuguesa** na **UFRN**, com **interesse** nas áreas de **Leitura e Produção de Texto**, **Literatura** e **Linguística**.
-
-* **CONTATO**
-
-> E-mail: thaynanmsilva@gmail.com
+Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **20 anos**, sou **Técnico em Programação de Jogos Digitais** pelo **IFRN**, com **habilidades** na **elaboração de artes vetoriais** e em **design gráfico**, e atualmente estou **cursando Letras - Língua Portuguesa** na **UFRN**, com **interesse** nas áreas de **Leitura e Produção de Texto**, **Literatura** e **Linguística**.  
 
 * **CURRÍCULO LATTES**
 
