@@ -14,7 +14,6 @@ Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **20 anos**,
 
 > [Instagram: thay.mdrs](https://www.instagram.com/thay.mdrs)  
 > [YouTube: Thaynan Medeiros](https://www.youtube.com/channel/UCcRV_fDMn7_51ULNUNj8Ebw)  
-> [GitHub: ThaynanMedeiros](https://github.com/ThaynanMedeiros)  
 > [Behance: thaynanmedeiros](https://www.behance.net/thaynanmedeiros)  
 > [ArtStation: thay_mdrs](https://www.artstation.com/thay_mdrs)  
 
