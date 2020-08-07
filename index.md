@@ -26,8 +26,8 @@ _Projetos desenvolvidos no decorrer do curso de Programação de Jogos Digitais 
 
 **NOTAS**:
 - Meus jogos são desenvolvidos através da _game engine_ Construct 2;
-- Na produção de jogos, prefiro ficar com as artes do que com a programação;
-- Geralmente, faço as artes no CorelDRAW;
+- Na produção de jogos, geralmente fico com as artes;
+- E geralmente, faço as artes no CorelDRAW;
 - Sou viciadíssimo em um degradê.
 
 ### MAPA DE INFLUÊNCIA
