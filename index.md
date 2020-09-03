@@ -51,6 +51,9 @@ Neste projeto, foram integradas as disciplinas de Motores de Jogos e Biologia at
 
 6. **[Rio Grande - A História (projeto de conclusão de curso)![](RioGrandeCapa.png)](https://mrbtrzmoraes.github.io/RioGrande/)**  O jogo "Rio Grande - A História" foi desenvolvido como projeto final do curso de Programação de Jogos Digitais, ofertado pelo IFRN - _Campus_ Ceará-Mirim, para auxiliar como ferramenta no processo de ensino-aprendizagem da História do período colonial da capitania do Rio Grande. O projeto foi desenvolvido por Amnésia Estúdio, o qual é composto pelos alunos Maria Beatriz Nogueira de Moraes, responsável pela programação, Thaynan Medeiros da Silva, responsável pelas artes, e Maria Eduarda de Lima Freire, responsável pelo game design e áudios.  
 
+7. (Primeiro projeto solo em andamento)  
+![Preview_Project](Preview_Project.png)  
+
 ### ARTES
 
 - Potengi: O Quiz  
