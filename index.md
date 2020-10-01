@@ -55,25 +55,6 @@ Neste projeto, foram integradas as disciplinas de Motores de Jogos e Biologia at
 7. **Meu primeiro projeto solo e independente (em andamento)**  
 ![Preview_Project](Preview_Project.png)  
 
-### ARTES
-
-- Potengi: O Quiz  
-
-  - Fluxo Estúdio - Logo  ![fluxoestudiologo](fluxoestudiologo.png)  
-  
-  
-  - Catamarã  ![catamara](catamara.png)  
-  
-  
-  - Ponte Newton Navarro  ![pontenewtonnavarro](pontenewtonnavarro.png)  
-  
-  
-  - Fortaleza dos Reis Magos  ![fortalezadosreismagos](fortalezadosreismagos.png)  
-  
-  
-  - Faróis da Boca da Barra  ![faroisbocadabarra](faroisbocadabarra.png)  
-  
-
 ### PROJETOS
 
 - Jogos Digitais Como Fonte De Conhecimento Da Cultura Budista: Em Foco O Nirvana;
