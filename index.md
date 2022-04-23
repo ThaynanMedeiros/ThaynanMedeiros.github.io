@@ -4,7 +4,7 @@ layout: default
 
 # QUEM SOU EU?
 
-Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, tenho **22 anos**, sou **Técnico em Programação de Jogos Digitais** pelo **IFRN (2018)**, com **habilidades** na **elaboração de artes vetoriais** e em **design gráfico**, e atualmente estou **cursando Letras - Língua Portuguesa** na **UFRN**, com **interesse** nas áreas de **Leitura e Produção de Texto**, **Literatura** e **Linguística**.  
+Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, sou **Técnico em Programação de Jogos Digitais** pelo **IFRN (2018)**, com **habilidades** na **elaboração de artes vetoriais** e em **design gráfico**, e atualmente estou **cursando Letras - Língua Portuguesa** na **UFRN**, com **interesse** nas áreas de **Leitura e Produção de Texto**, **Literatura** e **Linguística**.  
 
 * **CURRÍCULO LATTES**
 
