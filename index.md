@@ -14,7 +14,7 @@ Então... Meu nome é **Thaynan Medeiros**, sou **potiguar**, **Técnico em Prog
 
 > [LinkedIn: thaynanmedeiros](https://www.linkedin.com/in/thaynanmedeiros)  
 > [Instagram: thay.mdrs](https://www.instagram.com/thay.mdrs)  
-> [YouTube: Thaynan Medeiros](https://www.youtube.com/channel/UCcRV_fDMn7_51ULNUNj8Ebw)  
+> [YouTube: Thaynan Medeiros](https://youtube.com/@thaynanmedeiros)  
 > [Behance: thaynanmedeiros](https://www.behance.net/thaynanmedeiros)  
 > [ArtStation: thay_mdrs](https://www.artstation.com/thay_mdrs)  
 
