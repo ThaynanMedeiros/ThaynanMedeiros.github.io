@@ -66,4 +66,9 @@ Neste projeto, foram integradas as disciplinas de Motores de Jogos e Biologia at
 - The Cups Song (apresentação cultural na II Secitex que aconteceu no IFRN - _Campus_ Parnamirim em 2016);  
 - Jogos Digitais Como Fonte De Conhecimento Da Cultura Budista: Em Foco O Nirvana (apresentação no formato Banner na I Expotec do IFRN - _Campus_ Ceará-Mirim).
 
+### TRABALHOS PUBLICADOS EM ANAIS DE EVENTOS
+
+- RIO GRANDE - A HISTÓRIA: UMA FERRAMENTA DE ENSINO-APRENDIZAGEM SOBRE A HISTÓRIA DO RIO GRANDE DO NORTE (resumo publicado nos Anais da Mostra de Ciência e Tecnologia da Zona Norte de Natal (MOCITECZN) de 2018),  
+  - [Link da publicação](https://fases.ifrn.edu.br/publicacoeszn/index.php/mociteczn/article/view/720).  
+
 * * *
